@@ -24,4 +24,4 @@
 
 <a href="http://mitty0719.com">포트폴리오</a>
 
-<a href="https://mitty0719.github.com">블로그</a>
+<a href="https://mitty0719.github.io">블로그</a>
